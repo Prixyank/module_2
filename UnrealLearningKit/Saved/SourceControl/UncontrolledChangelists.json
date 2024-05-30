@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/priya/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/priya/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/priya/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/MyMyActor.uasset",
+				"C:/Users/priya/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Assets/Props/PuzzlePieces/PuzzleCube_A/SM_PuzzleCube_A.uasset"
+			]
+		}
+	]
+}
